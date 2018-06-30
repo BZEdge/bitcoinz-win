@@ -1,14 +1,14 @@
-# BitcoinZ Windows Command Line Wallet
-**Keep running wallet to strengthen the BitcoinZ network. Backup your wallet in
+# BZedge Windows Command Line Wallet
+**Keep running wallet to strengthen the BZedge network. Backup your wallet in
 many locations & keep your coins wallet offline.**
 
 ### Ports:
-- RPC port: 1979
-- P2P port: 1989
+- RPC port: 1980
+- P2P port: 1990
 
 Build Instructions
 -----------------
-The BitcoinZ Windows Command Line Wallet can only be built from ubuntu for now.
+The BZedge Windows Command Line Wallet can only be built from ubuntu for now.
 
 Install required dependencies:
 ```
